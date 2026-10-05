@@ -1,0 +1,8 @@
+name: docker course,
+tags:
+  - software
+    - docker
+author:
+  name: "Docker"
+  age: 24
+version: 1.0.0
